@@ -12,7 +12,7 @@ Library : jLabel, jButton, jRadioButton
              jfreechart
              ImageIO
 ---------------------------------------------------------------
-Referent :
+Reference :
   - https://www.youtube.com/watch?v=cw31L_OwX3A&t=2698s
   - https://crunchify.com/how-to-read-json-object-from-file-in-java/
   - https://www.thaicreate.com/java/java-json-create.html
